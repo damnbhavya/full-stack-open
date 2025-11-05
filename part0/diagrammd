@@ -1,3 +1,8 @@
+# Notes App Request Flow
+
+This diagram shows how the browser interacts with the server when loading the Notes app.
+
+```mermaid
 sequenceDiagram
     participant browser
     participant server
